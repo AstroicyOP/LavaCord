@@ -1,0 +1,14 @@
+{
+  "name": "lavacord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Astroicy",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "got": "^11.8.1"
+  },
+  "scripts": {
+   "start": "bash start.sh"
+  }
+}
