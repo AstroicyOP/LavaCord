@@ -2,3 +2,5 @@ disocrd.js
 lavalink
 replit
 glitch
+and ur brain
+atleast u know smthing abt Javascript
